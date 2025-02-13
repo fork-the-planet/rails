@@ -385,7 +385,7 @@ GEM
     mysql2 (0.5.6)
     net-http-persistent (4.0.5)
       connection_pool (~> 2.2)
-    net-imap (0.5.5)
+    net-imap (0.5.6)
       date
       net-protocol
     net-pop (0.1.2)
@@ -460,7 +460,7 @@ GEM
     rbtree (0.4.6)
     rdoc (6.9.1)
       psych (>= 4.0.0)
-    redcarpet (3.2.3)
+    redcarpet (3.5.1)
     redis (5.3.0)
       redis-client (>= 0.22.0)
     redis-client (0.23.1)
@@ -714,7 +714,7 @@ DEPENDENCIES
   rails!
   rake (>= 13)
   rdoc (< 6.10)
-  redcarpet (~> 3.2.3)
+  redcarpet (~> 3.5.1)
   redis (>= 4.0.1)
   redis-namespace
   releaser!
